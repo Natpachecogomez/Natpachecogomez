@@ -21,5 +21,5 @@
   <div align="center">
       <a href="https://instagram.com/nt_ucks?utm_medium=copy_link"><img src="https://github.com/Natpachecogomez/Natpachecogomez/blob/main/IG.png" alt="ig" width="60" height="60"></a>
    <a href="https://open.spotify.com/user/12174012850?si=jGlUw_NfQ6qMZsf86Lz-lQ"><img src="https://github.com/Natpachecogomez/Natpachecogomez/blob/main/Spotify.png" alt="ig" width="60" height="60"></a>
-   <a href="www.linkedin.com/in/Nat97"><img src="https://github.com/Natpachecogomez/Natpachecogomez/blob/main/Linkedin.png" alt="ig" width="60" height="60"></a>
+   <a href="https://www.linkedin.com/in/Nat97/"><img src="https://github.com/Natpachecogomez/Natpachecogomez/blob/main/Linkedin.png" alt="ig" width="60" height="60"></a>
     </div>   
