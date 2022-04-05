@@ -1,6 +1,6 @@
 ### 
 <div align="center">
- <img alt="png" src="https://github.com/Natpachecogomez/Natpachecogomez/blob/main/WELCOME.png" width="700" height="250"/></p> </div>
+ <img alt="png" src="https://github.com/Natpachecogomez/Natpachecogomez/blob/main/Heyskulls.png" width="700" height="250"/></p> </div>
      <div align="center">
  <h3> HEY! I'm Natalia a chemical engineer student at the EAN university :)  </h3>
        <div align="center">
