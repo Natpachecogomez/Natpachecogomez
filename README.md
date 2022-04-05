@@ -2,7 +2,7 @@
 <div align="center">
  <img alt="png" src="https://github.com/Natpachecogomez/Natpachecogomez/blob/main/WELCOME.png" width="700" height="250"/></p> </div>
      <div align="center">
-      <p> My name is Natalia and I'm a chemical engineer student at the EAN university :) 
+ <h3> HEY! I'm Natalia a chemical engineer student at the EAN university :)  </h3>
        <div align="center">
       <h3>My skills: </h3>
   Spanish is my native language and I have a C1 english level. Besides, I have an advanced experience with office, especially with excel.
