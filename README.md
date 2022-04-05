@@ -1,8 +1,7 @@
 ### 
 <div align="center">
-  <h1>  Welcome </h1>
-    <div align="center">
- <img alt="png" src="https://github.com/Natpachecogomez/Natpachecogomez/blob/main/Doodle%20skulls.png" width="300" height="200"/></p> </div>
+  <h1>  Welcome 
+ <img alt="png" src="" width="300" height="200"/></p> </div>
      <div align="center">
       <p> My name is Natalia and I'm a chemical engineer student at the EAN university :) 
        <div align="center">
