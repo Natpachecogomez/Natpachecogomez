@@ -1,12 +1,11 @@
 ### 
 <div align="center">
-  <h1>  Welcome 
- <img alt="png" src="" width="300" height="200"/></p> </div>
+ <img alt="png" src="https://github.com/Natpachecogomez/Natpachecogomez/blob/main/WELCOME.png" width="700" height="250"/></p> </div>
      <div align="center">
       <p> My name is Natalia and I'm a chemical engineer student at the EAN university :) 
        <div align="center">
       <h3>My skills: </h3>
-  My native language is Spanish and I have a C1 english level. Besides, I have an advanced experience with office, especially with excel.
+  Spanish is my native language and I have a C1 english level. Besides, I have an advanced experience with office, especially with excel.
   <div align="center">
   Currently I'm learning python and inventor. 
          <div align="center">
